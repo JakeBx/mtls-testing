@@ -1,1 +1,0 @@
-1. Ollama client does not serialize, this is what I was testing with initially
