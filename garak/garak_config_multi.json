@@ -1,0 +1,40 @@
+{
+  "run": {
+    "generations": 3,
+    "soft_probe_prompt_cap": 3
+  },
+  "system": {
+    "parallel_attempts": 2
+  },
+  "plugins": {
+    "generators": {
+      "rest": {
+        "RestGenerator": {
+          "name": "ollama-mtls",
+          "uri": "https://127.0.0.1/generate",
+          "method": "post",
+          "headers": {
+            "Content-Type": "application/json"
+          },
+          "req_template_json_object": {
+            "model": "qwen2.5:3b",
+            "prompt": "$INPUT",
+            "stream": false
+          },
+          "response_json": true,
+          "response_json_field": "response",
+          "request_timeout": 60,
+          "client_cert": "certs/client.crt",
+          "client_key": "certs/client.key",
+          "verify_ssl": "certs/ca.crt"
+        }
+      }
+    },
+    "probe_spec": "badchars,encoding.InjectAscii85,encoding.InjectAtbash,encoding.InjectBase16,encoding.InjectBase2048,encoding.InjectBase32,encoding.InjectBase64,encoding.InjectBraille,encoding.InjectEcoji,encoding.InjectHex,encoding.InjectMorse,encoding.InjectNato,encoding.InjectROT13,encoding.InjectUU",
+    "target_type": "rest",
+    "target_name": "ollama-mtls"
+  },
+  "reporting": {
+    "report_dir": "."
+  }
+}

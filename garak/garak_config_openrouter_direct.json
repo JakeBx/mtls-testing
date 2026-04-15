@@ -1,0 +1,39 @@
+{
+  "run": {
+    "generations": 5,
+    "soft_probe_prompt_cap": 5
+  },
+  "system": {
+    "parallel_attempts": 2
+  },
+  "plugins": {
+    "generators": {
+      "rest": {
+        "RestGenerator": {
+          "name": "openrouter-direct",
+          "uri": "https://openrouter.ai/api/v1/chat/completions",
+          "method": "post",
+          "headers": {
+            "Content-Type": "application/json",
+            "Authorization": "Bearer $KEY"
+          },
+          "key_env_var": "OPENROUTER_API_KEY",
+          "req_template_json_object": {
+            "model": "mistralai/mistral-nemo",
+            "messages": [{"role": "user", "content": "$INPUT"}],
+            "stream": false
+          },
+          "response_json": true,
+          "response_json_field": "$.choices[0].message.content",
+          "request_timeout": 60
+        }
+      }
+    },
+    "probe_spec": "badchars",
+    "target_type": "rest",
+    "target_name": "openrouter-direct"
+  },
+  "reporting": {
+    "report_dir": "."
+  }
+}

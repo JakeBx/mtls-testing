@@ -1,0 +1,30 @@
+{
+  "run": {
+    "generations": 200
+  },
+  "plugins": {
+    "generators": {
+      "rest": {
+        "RestGenerator": {
+          "name": "ollama-mtls",
+          "uri": "https://127.0.0.1/generate",
+          "method": "post",
+          "headers": {
+            "Content-Type": "application/json"
+          },
+          "req_template_json_object": {
+            "model": "qwen2.5:3b",
+            "prompt": "$INPUT",
+            "stream": false
+          },
+          "response_json": true,
+          "response_json_field": "response",
+          "request_timeout": 60,
+          "client_cert": "certs/client.crt",
+          "client_key": "certs/client.key",
+          "verify_ssl": "certs/ca.crt"
+        }
+      }
+    }
+  }
+}

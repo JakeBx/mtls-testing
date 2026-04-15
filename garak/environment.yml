@@ -1,0 +1,11 @@
+name: mtls-testing
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - openssl
+  - pip:
+    - pytest
+    - "git+https://github.com/JakeBx/garak.git@mtls-client-auth-fix"

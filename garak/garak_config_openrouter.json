@@ -1,0 +1,40 @@
+{
+  "run": {
+    "generations": 5,
+    "soft_probe_prompt_cap": 5
+  },
+  "system": {
+    "parallel_attempts": 2
+  },
+  "plugins": {
+    "generators": {
+      "rest": {
+        "RestGenerator": {
+          "name": "openrouter-mtls",
+          "uri": "https://127.0.0.1/openrouter",
+          "method": "post",
+          "headers": {
+            "Content-Type": "application/json"
+          },
+          "req_template_json_object": {
+            "model": "mistralai/mistral-nemo",
+            "messages": [{"role": "user", "content": "$INPUT"}],
+            "stream": false
+          },
+          "response_json": true,
+          "response_json_field": "$.choices[0].message.content",
+          "request_timeout": 60,
+          "client_cert": "certs/client.crt",
+          "client_key": "certs/client.key",
+          "verify_ssl": "certs/ca.crt"
+        }
+      }
+    },
+    "probe_spec": "badchars",
+    "target_type": "rest",
+    "target_name": "openrouter-mtls"
+  },
+  "reporting": {
+    "report_dir": "."
+  }
+}
