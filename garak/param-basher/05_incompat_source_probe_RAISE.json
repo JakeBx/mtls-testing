@@ -1,0 +1,31 @@
+{
+  "run": {
+    "generations": 2,
+    "soft_probe_prompt_cap": 3
+  },
+  "plugins": {
+    "probe_spec": "hyperparams.HyperparamBasher",
+    "target_type": "openai.OpenAICompatible",
+    "target_name": "mistralai/mistral-nemo",
+    "generators": {
+      "openai": {
+        "OpenAICompatible": {
+          "uri": "https://openrouter.ai/api/v1"
+        }
+      }
+    },
+    "probes": {
+      "hyperparams": {
+        "HyperparamBasher": {
+          "source_probe": "promptinject.HijackHateHumans",
+          "param_space": {
+            "temperature": [1.0]
+          }
+        }
+      }
+    }
+  },
+  "reporting": {
+    "report_dir": "."
+  }
+}

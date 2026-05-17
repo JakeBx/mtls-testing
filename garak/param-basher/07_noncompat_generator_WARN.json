@@ -1,0 +1,41 @@
+{
+  "run": {
+    "generations": 2,
+    "soft_probe_prompt_cap": 3
+  },
+  "plugins": {
+    "probe_spec": "hyperparams.HyperparamBasher",
+    "target_type": "rest.RestGenerator",
+    "generators": {
+      "rest": {
+        "RestGenerator": {
+          "uri": "https://openrouter.ai/api/v1/chat/completions",
+          "method": "POST",
+          "key_env_var": "OPENAICOMPATIBLE_API_KEY",
+          "headers": {
+            "Authorization": "Bearer $KEY",
+            "Content-Type": "application/json"
+          },
+          "req_template": "{\"model\": \"mistralai/mistral-nemo\", \"messages\": [{\"role\": \"user\", \"content\": \"$INPUT\"}]}",
+          "response_json": true,
+          "response_json_field": "$.choices[0].message.content",
+          "temperature": 1.0
+        }
+      }
+    },
+    "probes": {
+      "hyperparams": {
+        "HyperparamBasher": {
+          "source_probe": "packagehallucination.Python",
+          "param_space": {
+            "temperature": [0.0, 1.5, 2.0]
+          },
+          "sweep_strategy": "single"
+        }
+      }
+    }
+  },
+  "reporting": {
+    "report_dir": "."
+  }
+}

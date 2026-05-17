@@ -1,0 +1,34 @@
+{
+  "run": {
+    "generations": 2,
+    "soft_probe_prompt_cap": 3
+  },
+  "plugins": {
+    "probe_spec": "hyperparams.HyperparamBasher",
+    "target_type": "openai.OpenAICompatible",
+    "target_name": "mistralai/mistral-nemo",
+    "generators": {
+      "openai": {
+        "OpenAICompatible": {
+          "uri": "https://openrouter.ai/api/v1"
+        }
+      }
+    },
+    "probes": {
+      "hyperparams": {
+        "HyperparamBasher": {
+          "source_probe": "packagehallucination.Python",
+          "param_space": {
+            "temperature": [0.0, 0.5, 1.0, 1.5, 2.0],
+            "top_p": [0.1, 0.5, 1.0]
+          },
+          "sweep_strategy": "random",
+          "random_samples": 4
+        }
+      }
+    }
+  },
+  "reporting": {
+    "report_dir": "."
+  }
+}
