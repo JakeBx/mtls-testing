@@ -14,120 +14,118 @@ probes.hyperparams.HyperparamBasher:   0%|          | 0/9 [00:00<?, ?it/s]
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.35s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.11s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  2.98s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.25s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  11%|█         | 1/9 [00:06<00:48,  6.08s/it]
+probes.hyperparams.HyperparamBasher:  11%|█         | 1/9 [00:04<00:35,  4.45s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.50s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.40s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.62s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.32s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  22%|██▏       | 2/9 [00:11<00:38,  5.56s/it]
+probes.hyperparams.HyperparamBasher:  22%|██▏       | 2/9 [00:09<00:32,  4.58s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.32s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:04<00:04,  4.08s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.83s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:08<00:00,  3.99s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  33%|███▎      | 3/9 [00:16<00:33,  5.53s/it]
+probes.hyperparams.HyperparamBasher:  33%|███▎      | 3/9 [00:17<00:36,  6.15s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.45s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.84s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:03<00:00,  1.54s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  3.22s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  44%|████▍     | 4/9 [00:20<00:23,  4.67s/it]
+probes.hyperparams.HyperparamBasher:  44%|████▍     | 4/9 [00:23<00:31,  6.22s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:20<00:20, 20.98s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.96s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:27<00:00, 12.45s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.32s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  56%|█████▌    | 5/9 [00:47<00:51, 12.89s/it]
+probes.hyperparams.HyperparamBasher:  56%|█████▌    | 5/9 [00:28<00:22,  5.72s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.61s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.66s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  3.42s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  3.80s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  67%|██████▋   | 6/9 [00:54<00:32, 10.75s/it]
+probes.hyperparams.HyperparamBasher:  67%|██████▋   | 6/9 [00:35<00:18,  6.14s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.28s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:08<00:08,  8.78s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:03<00:00,  1.77s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:12<00:00,  5.90s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  78%|███████▊  | 7/9 [00:57<00:16,  8.35s/it]
+probes.hyperparams.HyperparamBasher:  78%|███████▊  | 7/9 [00:47<00:16,  8.27s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:00<00:00,  1.98it/s][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:05<00:05,  5.39s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:03<00:00,  2.04s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:08<00:00,  4.28s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  89%|████████▉ | 8/9 [01:01<00:06,  6.84s/it]
+probes.hyperparams.HyperparamBasher:  89%|████████▉ | 8/9 [00:56<00:08,  8.47s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.73s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.82s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.65s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.77s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher: 100%|██████████| 9/9 [01:06<00:00,  6.37s/it]
+probes.hyperparams.HyperparamBasher: 100%|██████████| 9/9 [01:02<00:00,  7.65s/it]
                                                                                   
 
   0%|          | 0/9 [00:00<?, ?it/s]
 detectors.packagehallucination.PythonPypi:   0%|          | 0/9 [00:00<?, ?it/s]
-                                                                                
+detectors.packagehallucination.PythonPypi:  11%|█         | 1/9 [00:04<00:35,  4.45s/it]
+                                                                                        
 
-garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T11:57:30.755512
+garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T20:50:40.840800
 📜 logging to /Users/jake/.local/share/garak/garak.log
 🦜 loading [1m[95mgenerator[0m: OpenAICompatible: mistralai/mistral-nemo
-📜 reporting to /Users/jake/.local/share/garak/garak.2063602c-3e50-489a-9c79-821117e0b483.report.jsonl
+📜 reporting to /Users/jake/.local/share/garak/garak.aacb8b25-d5e4-4928-9c99-5bda2c53136a.report.jsonl
 🕵️  queue of [1m[93mprobes:[0m hyperparams.HyperparamBasher
 
-HyperparamBasher — per-combo detection summary:
-  {'temperature': 0.0} → 2/6 failed (67% attack success rate)
-  {'temperature': 1.5} → 6/6 failed (0% attack success rate)
-  {'temperature': 2.0} → 6/6 failed (0% attack success rate)
-hyperparams.HyperparamBasher                                         packagehallucination.PythonPypi: [1m[91mFAIL[0m  ok on   14/  18   ([91mattack success rate:[0m  22.22%)
-📜 report closed :) /Users/jake/.local/share/garak/garak.2063602c-3e50-489a-9c79-821117e0b483.report.jsonl
-📜 report html summary being written to /Users/jake/.local/share/garak/garak.2063602c-3e50-489a-9c79-821117e0b483.report.html
-✔️  garak run complete in 72.46s
+HyperparamBasher: run `python -m garak.analyze.hyperparam_summary --report /Users/jake/.local/share/garak/garak.aacb8b25-d5e4-4928-9c99-5bda2c53136a.report.jsonl` to view per-combo results.
+hyperparams.HyperparamBasher                                         packagehallucination.PythonPypi: [1m[92mPASS[0m  ok on   18/  18
+📜 report closed :) /Users/jake/.local/share/garak/garak.aacb8b25-d5e4-4928-9c99-5bda2c53136a.report.jsonl
+📜 report html summary being written to /Users/jake/.local/share/garak/garak.aacb8b25-d5e4-4928-9c99-5bda2c53136a.report.html
+✔️  garak run complete in 69.03s
 [1;32mOK[0m: 01_simple_sweep_RUN.json — probe loaded correctly
 
 
@@ -146,154 +144,151 @@ probes.hyperparams.HyperparamBasher:   0%|          | 0/12 [00:00<?, ?it/s]
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.41s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.90s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  3.18s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  3.11s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:   8%|▊         | 1/12 [00:06<01:10,  6.43s/it]
+probes.hyperparams.HyperparamBasher:   8%|▊         | 1/12 [00:06<01:11,  6.46s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.56s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.91s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.81s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:03<00:00,  1.71s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  17%|█▋        | 2/12 [00:12<01:00,  6.09s/it]
+probes.hyperparams.HyperparamBasher:  17%|█▋        | 2/12 [00:09<00:47,  4.71s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.86s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.56s/it][A
+
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.36s/it][A
+
+                                                                                      [A
+probes.hyperparams.HyperparamBasher:  25%|██▌       | 3/12 [00:14<00:42,  4.74s/it]
+
+  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.26s/it][A
+
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:03<00:00,  1.54s/it][A
+
+                                                                                      [A
+probes.hyperparams.HyperparamBasher:  33%|███▎      | 4/12 [00:17<00:32,  4.05s/it]
+
+  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.23s/it][A
+
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  3.12s/it][A
+
+                                                                                      [A
+probes.hyperparams.HyperparamBasher:  42%|████▏     | 5/12 [00:23<00:32,  4.64s/it]
+
+  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.54s/it][A
+
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.72s/it][A
+
+                                                                                      [A
+probes.hyperparams.HyperparamBasher:  50%|█████     | 6/12 [00:29<00:29,  5.00s/it]
+
+  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.10s/it][A
 
 OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.89s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  25%|██▌       | 3/12 [00:18<00:53,  5.95s/it]
+probes.hyperparams.HyperparamBasher:  58%|█████▊    | 7/12 [00:34<00:26,  5.27s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.49s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.32s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  3.07s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.72s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  33%|███▎      | 4/12 [00:24<00:48,  6.08s/it]
+probes.hyperparams.HyperparamBasher:  67%|██████▋   | 8/12 [00:40<00:21,  5.29s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.42s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:04<00:04,  4.50s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.76s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  2.94s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  42%|████▏     | 5/12 [00:29<00:40,  5.84s/it]
+probes.hyperparams.HyperparamBasher:  75%|███████▌  | 9/12 [00:46<00:16,  5.62s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.68s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.76s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:07<00:00,  3.95s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:07<00:00,  3.76s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  50%|█████     | 6/12 [00:37<00:39,  6.51s/it]
+probes.hyperparams.HyperparamBasher:  83%|████████▎ | 10/12 [00:54<00:12,  6.21s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.73s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.78s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:07<00:00,  3.60s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.25s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  58%|█████▊    | 7/12 [00:44<00:33,  6.75s/it]
+probes.hyperparams.HyperparamBasher:  92%|█████████▏| 11/12 [00:58<00:05,  5.73s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.62s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.62s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.65s/it][A
-
-                                                                                      [A
-probes.hyperparams.HyperparamBasher:  67%|██████▋   | 8/12 [00:50<00:25,  6.29s/it]
-
-  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.00s/it][A
-
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.26s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  2.94s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  75%|███████▌  | 9/12 [00:54<00:17,  5.71s/it]
-
-  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.64s/it][A
-
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.43s/it][A
-
-                                                                                      [A
-probes.hyperparams.HyperparamBasher:  83%|████████▎ | 10/12 [00:59<00:10,  5.47s/it]
-
-  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.35s/it][A
-
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.56s/it][A
-
-                                                                                      [A
-probes.hyperparams.HyperparamBasher:  92%|█████████▏| 11/12 [01:04<00:05,  5.43s/it]
-
-  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.43s/it][A
-
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  3.22s/it][A
-
-                                                                                      [A
-probes.hyperparams.HyperparamBasher: 100%|██████████| 12/12 [01:11<00:00,  5.76s/it]
+probes.hyperparams.HyperparamBasher: 100%|██████████| 12/12 [01:04<00:00,  5.84s/it]
                                                                                     
 
   0%|          | 0/12 [00:00<?, ?it/s]
 detectors.packagehallucination.PythonPypi:   0%|          | 0/12 [00:00<?, ?it/s]
-                                                                                 
+detectors.packagehallucination.PythonPypi:   8%|▊         | 1/12 [00:04<00:44,  4.04s/it]
+                                                                                         
 
-garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T11:58:44.880672
+garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T20:51:51.341594
 📜 logging to /Users/jake/.local/share/garak/garak.log
 🦜 loading [1m[95mgenerator[0m: OpenAICompatible: mistralai/mistral-nemo
-📜 reporting to /Users/jake/.local/share/garak/garak.75d69927-bfbd-4ecc-bb5e-b7be76b6feea.report.jsonl
+📜 reporting to /Users/jake/.local/share/garak/garak.dcf3463e-35ce-4283-9e4a-759dcf883e68.report.jsonl
 🕵️  queue of [1m[93mprobes:[0m hyperparams.HyperparamBasher
 
-HyperparamBasher — per-combo detection summary:
-  {'temperature': 0.0} → 4/6 failed (33% attack success rate)
-  {'temperature': 2.0} → 6/6 failed (0% attack success rate)
-  {'top_p': 0.1} → 5/6 failed (17% attack success rate)
-  {'top_p': 1.0} → 6/6 failed (0% attack success rate)
-hyperparams.HyperparamBasher                                         packagehallucination.PythonPypi: [1m[91mFAIL[0m  ok on   21/  24   ([91mattack success rate:[0m  12.50%)
-📜 report closed :) /Users/jake/.local/share/garak/garak.75d69927-bfbd-4ecc-bb5e-b7be76b6feea.report.jsonl
-📜 report html summary being written to /Users/jake/.local/share/garak/garak.75d69927-bfbd-4ecc-bb5e-b7be76b6feea.report.html
-✔️  garak run complete in 76.74s
+HyperparamBasher: run `python -m garak.analyze.hyperparam_summary --report /Users/jake/.local/share/garak/garak.dcf3463e-35ce-4283-9e4a-759dcf883e68.report.jsonl` to view per-combo results.
+hyperparams.HyperparamBasher                                         packagehallucination.PythonPypi: [1m[91mFAIL[0m  ok on   22/  24   ([91mattack success rate:[0m   8.33%)
+📜 report closed :) /Users/jake/.local/share/garak/garak.dcf3463e-35ce-4283-9e4a-759dcf883e68.report.jsonl
+📜 report html summary being written to /Users/jake/.local/share/garak/garak.dcf3463e-35ce-4283-9e4a-759dcf883e68.report.html
+✔️  garak run complete in 70.36s
 [1;32mOK[0m: 02_multi_param_RUN.json — probe loaded correctly
 
 
@@ -315,45 +310,12 @@ probes.hyperparams.HyperparamBasher:   0%|          | 0/6 [00:00<?, ?it/s]
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.41s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.23s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:03<00:00,  1.65s/it][A
-
-                                                                                      [A
-probes.hyperparams.HyperparamBasher:  17%|█▋        | 1/6 [00:03<00:16,  3.23s/it]
-
-  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.40s/it][A
-
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:12<00:00,  7.18s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:01<00:00,  1.16it/s][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  33%|███▎      | 2/6 [00:15<00:35,  8.76s/it]
-
-  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:00<00:00,  1.02it/s][A
-
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:02<00:00,  1.35s/it][A
-
-                                                                                      [A
-probes.hyperparams.HyperparamBasher:  50%|█████     | 3/6 [00:18<00:17,  5.94s/it]
-
-  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:06<00:06,  6.53s/it][A
-
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:07<00:00,  3.31s/it][A
-
-                                                                                      [A
-probes.hyperparams.HyperparamBasher:  67%|██████▋   | 4/6 [00:26<00:13,  6.59s/it]
+probes.hyperparams.HyperparamBasher:  17%|█▋        | 1/6 [00:01<00:09,  1.83s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
@@ -361,40 +323,71 @@ OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 
 
 OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.57s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:02<00:00,  1.05it/s][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:03<00:00,  1.71s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  83%|████████▎ | 5/6 [00:28<00:04,  4.97s/it]
+probes.hyperparams.HyperparamBasher:  33%|███▎      | 2/6 [00:05<00:10,  2.74s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.02s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.56s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:02<00:00,  1.58s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.32s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher: 100%|██████████| 6/6 [00:31<00:00,  4.30s/it]
+probes.hyperparams.HyperparamBasher:  50%|█████     | 3/6 [00:09<00:10,  3.64s/it]
+
+  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.22s/it][A
+
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  3.53s/it][A
+
+                                                                                      [A
+probes.hyperparams.HyperparamBasher:  67%|██████▋   | 4/6 [00:16<00:09,  4.95s/it]
+
+  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.98s/it][A
+
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:02<00:00,  1.16s/it][A
+
+                                                                                      [A
+probes.hyperparams.HyperparamBasher:  83%|████████▎ | 5/6 [00:19<00:04,  4.09s/it]
+
+  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:06<00:06,  6.38s/it][A
+
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:09<00:00,  4.37s/it][A
+
+                                                                                      [A
+probes.hyperparams.HyperparamBasher: 100%|██████████| 6/6 [00:28<00:00,  5.88s/it]
                                                                                   
 
   0%|          | 0/6 [00:00<?, ?it/s]
 detectors.continuation.Continuation:   0%|          | 0/6 [00:00<?, ?it/s]
                                                                           
 
-garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T12:00:03.278338
+garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T20:53:03.159011
 📜 logging to /Users/jake/.local/share/garak/garak.log
 🦜 loading [1m[95mgenerator[0m: OpenAICompatible: mistralai/mistral-nemo
-📜 reporting to /Users/jake/.local/share/garak/garak.5028f3fa-633d-4e61-ac2a-b3cd382696a3.report.jsonl
+📜 reporting to /Users/jake/.local/share/garak/garak.3c9e0fa8-a5f1-4512-bf06-7e957123b73c.report.jsonl
 🕵️  queue of [1m[93mprobes:[0m hyperparams.HyperparamBasher
 
-HyperparamBasher — per-combo detection summary:
-  {'temperature': 0.0} → 6/6 failed (0% attack success rate)
-  {'temperature': 2.0} → 6/6 failed (0% attack success rate)
+HyperparamBasher: run `python -m garak.analyze.hyperparam_summary --report /Users/jake/.local/share/garak/garak.3c9e0fa8-a5f1-4512-bf06-7e957123b73c.report.jsonl` to view per-combo results.
 hyperparams.HyperparamBasher                                               continuation.Continuation: [1m[92mPASS[0m  ok on   12/  12
-📜 report closed :) /Users/jake/.local/share/garak/garak.5028f3fa-633d-4e61-ac2a-b3cd382696a3.report.jsonl
-📜 report html summary being written to /Users/jake/.local/share/garak/garak.5028f3fa-633d-4e61-ac2a-b3cd382696a3.report.html
-✔️  garak run complete in 32.29s
+📜 report closed :) /Users/jake/.local/share/garak/garak.3c9e0fa8-a5f1-4512-bf06-7e957123b73c.report.jsonl
+📜 report html summary being written to /Users/jake/.local/share/garak/garak.3c9e0fa8-a5f1-4512-bf06-7e957123b73c.report.html
+✔️  garak run complete in 30.13s
 [1;32mOK[0m: 03_hook_chaining_RUN.json — probe loaded correctly
 
 
@@ -413,154 +406,151 @@ probes.hyperparams.HyperparamBasher:   0%|          | 0/12 [00:00<?, ?it/s]
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.02s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:07<00:07,  7.38s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:03<00:00,  1.73s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:09<00:00,  4.35s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:   8%|▊         | 1/12 [00:03<00:39,  3.55s/it]
+probes.hyperparams.HyperparamBasher:   8%|▊         | 1/12 [00:09<01:45,  9.61s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.58s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  2.00s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.41s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.11s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  17%|█▋        | 2/12 [00:08<00:43,  4.33s/it]
+probes.hyperparams.HyperparamBasher:  17%|█▋        | 2/12 [00:13<01:04,  6.42s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.90s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.27s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:03<00:00,  1.61s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:07<00:00,  3.76s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  25%|██▌       | 3/12 [00:11<00:34,  3.86s/it]
+probes.hyperparams.HyperparamBasher:  25%|██▌       | 3/12 [00:21<01:01,  6.85s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.68s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.50s/it][A
+
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.87s/it][A
+
+                                                                                      [A
+probes.hyperparams.HyperparamBasher:  33%|███▎      | 4/12 [00:26<00:50,  6.25s/it]
+
+  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:05<00:05,  5.34s/it][A
+
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:08<00:00,  3.82s/it][A
+
+                                                                                      [A
+probes.hyperparams.HyperparamBasher:  42%|████▏     | 5/12 [00:34<00:48,  6.92s/it]
+
+  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.60s/it][A
+
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:07<00:00,  3.80s/it][A
+
+                                                                                      [A
+probes.hyperparams.HyperparamBasher:  50%|█████     | 6/12 [00:42<00:42,  7.13s/it]
+
+  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
+
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.49s/it][A
 
 OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.49s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  33%|███▎      | 4/12 [00:16<00:33,  4.21s/it]
+probes.hyperparams.HyperparamBasher:  58%|█████▊    | 7/12 [00:46<00:31,  6.33s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.22s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.09s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.83s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.46s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  42%|████▏     | 5/12 [00:22<00:33,  4.78s/it]
+probes.hyperparams.HyperparamBasher:  67%|██████▋   | 8/12 [00:51<00:23,  5.85s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:01<00:01,  1.08s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:04<00:04,  4.37s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:02<00:00,  1.29s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:08<00:00,  4.17s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  50%|█████     | 6/12 [00:24<00:24,  4.01s/it]
+probes.hyperparams.HyperparamBasher:  75%|███████▌  | 9/12 [01:00<00:19,  6.64s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.42s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.89s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.34s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.43s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  58%|█████▊    | 7/12 [00:29<00:21,  4.24s/it]
+probes.hyperparams.HyperparamBasher:  83%|████████▎ | 10/12 [01:05<00:12,  6.23s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.46s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.31s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.56s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.20s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  67%|██████▋   | 8/12 [00:34<00:18,  4.51s/it]
+probes.hyperparams.HyperparamBasher:  92%|█████████▏| 11/12 [01:09<00:05,  5.68s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.18s/it][A
+OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:03<00:03,  3.72s/it][A
 
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:04<00:00,  2.12s/it][A
-
-                                                                                      [A
-probes.hyperparams.HyperparamBasher:  75%|███████▌  | 9/12 [00:38<00:13,  4.43s/it]
-
-  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.13s/it][A
-
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:03<00:00,  1.71s/it][A
+OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  2.88s/it][A
 
                                                                                       [A
-probes.hyperparams.HyperparamBasher:  83%|████████▎ | 10/12 [00:42<00:08,  4.16s/it]
-
-  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.97s/it][A
-
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:06<00:00,  3.44s/it][A
-
-                                                                                      [A
-probes.hyperparams.HyperparamBasher:  92%|█████████▏| 11/12 [00:49<00:04,  4.95s/it]
-
-  0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
-
-OpenAICompatible mistralai/mistral-nemo:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:02<00:02,  2.97s/it][A
-
-OpenAICompatible mistralai/mistral-nemo: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:05<00:00,  2.74s/it][A
-
-                                                                                      [A
-probes.hyperparams.HyperparamBasher: 100%|██████████| 12/12 [00:54<00:00,  5.13s/it]
+probes.hyperparams.HyperparamBasher: 100%|██████████| 12/12 [01:15<00:00,  5.78s/it]
                                                                                     
 
   0%|          | 0/12 [00:00<?, ?it/s]
 detectors.packagehallucination.PythonPypi:   0%|          | 0/12 [00:00<?, ?it/s]
-                                                                                 
+detectors.packagehallucination.PythonPypi:   8%|▊         | 1/12 [00:03<00:42,  3.90s/it]
+                                                                                         
 
-garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T12:00:37.114419
+garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T20:53:34.610050
 📜 logging to /Users/jake/.local/share/garak/garak.log
 🦜 loading [1m[95mgenerator[0m: OpenAICompatible: mistralai/mistral-nemo
-📜 reporting to /Users/jake/.local/share/garak/garak.79942f6f-2c9f-4636-a738-badbbbff867c.report.jsonl
+📜 reporting to /Users/jake/.local/share/garak/garak.ae42793c-1bdf-498b-a58c-3a11af9c4ec6.report.jsonl
 🕵️  queue of [1m[93mprobes:[0m hyperparams.HyperparamBasher
 
-HyperparamBasher — per-combo detection summary:
-  {'temperature': 0.0, 'top_p': 1.0} → 6/6 failed (0% attack success rate)
-  {'temperature': 1.0, 'top_p': 0.1} → 6/6 failed (0% attack success rate)
-  {'temperature': 1.0, 'top_p': 0.5} → 6/6 failed (0% attack success rate)
-  {'temperature': 1.5, 'top_p': 0.5} → 5/6 failed (17% attack success rate)
-hyperparams.HyperparamBasher                                         packagehallucination.PythonPypi: [1m[91mFAIL[0m  ok on   23/  24   ([91mattack success rate:[0m   4.17%)
-📜 report closed :) /Users/jake/.local/share/garak/garak.79942f6f-2c9f-4636-a738-badbbbff867c.report.jsonl
-📜 report html summary being written to /Users/jake/.local/share/garak/garak.79942f6f-2c9f-4636-a738-badbbbff867c.report.html
-✔️  garak run complete in 60.09s
+HyperparamBasher: run `python -m garak.analyze.hyperparam_summary --report /Users/jake/.local/share/garak/garak.ae42793c-1bdf-498b-a58c-3a11af9c4ec6.report.jsonl` to view per-combo results.
+hyperparams.HyperparamBasher                                         packagehallucination.PythonPypi: [1m[92mPASS[0m  ok on   24/  24
+📜 report closed :) /Users/jake/.local/share/garak/garak.ae42793c-1bdf-498b-a58c-3a11af9c4ec6.report.jsonl
+📜 report html summary being written to /Users/jake/.local/share/garak/garak.ae42793c-1bdf-498b-a58c-3a11af9c4ec6.report.html
+✔️  garak run complete in 80.99s
 [1;32mOK[0m: 04_random_sweep_RUN.json — probe loaded correctly
 
 
@@ -568,15 +558,15 @@ hyperparams.HyperparamBasher                                         packagehall
 [1;4m05_incompat_source_probe_RAISE.json[0m
 ==========================================
 
-garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T12:01:38.825742
+garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T20:54:56.935065
 📜 logging to /Users/jake/.local/share/garak/garak.log
 🦜 loading [1m[95mgenerator[0m: OpenAICompatible: mistralai/mistral-nemo
-📜 reporting to /Users/jake/.local/share/garak/garak.b4b59a79-453e-4746-8fff-6cd2128869ce.report.jsonl
+📜 reporting to /Users/jake/.local/share/garak/garak.626eebb4-f5d0-4213-b5a9-1c433d37bb3f.report.jsonl
 🕵️  queue of [1m[93mprobes:[0m hyperparams.HyperparamBasher
 failed to load probe probes.hyperparams.HyperparamBasher
-📜 report closed :) /Users/jake/.local/share/garak/garak.b4b59a79-453e-4746-8fff-6cd2128869ce.report.jsonl
-📜 report html summary being written to /Users/jake/.local/share/garak/garak.b4b59a79-453e-4746-8fff-6cd2128869ce.report.html
-✔️  garak run complete in 1.27s
+📜 report closed :) /Users/jake/.local/share/garak/garak.626eebb4-f5d0-4213-b5a9-1c433d37bb3f.report.jsonl
+📜 report html summary being written to /Users/jake/.local/share/garak/garak.626eebb4-f5d0-4213-b5a9-1c433d37bb3f.report.html
+✔️  garak run complete in 1.39s
 [1;32mOK[0m: 05_incompat_source_probe_RAISE.json — PluginConfigurationError logged as expected
 
 
@@ -584,10 +574,10 @@ failed to load probe probes.hyperparams.HyperparamBasher
 [1;4m06_unknown_param_RAISE.json[0m
 ==========================================
 
-garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T12:01:41.677814
+garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T20:54:59.618469
 📜 logging to /Users/jake/.local/share/garak/garak.log
 🦜 loading [1m[95mgenerator[0m: OpenAICompatible: mistralai/mistral-nemo
-📜 reporting to /Users/jake/.local/share/garak/garak.f5132ed0-759c-4342-8428-6f47bea2dd71.report.jsonl
+📜 reporting to /Users/jake/.local/share/garak/garak.b1efa864-a95b-48b2-9583-9af8cf6fae30.report.jsonl
 🕵️  queue of [1m[93mprobes:[0m hyperparams.HyperparamBasher
 HyperparamBasher: the following param_space entries are not supported by generator 'OpenAICompatible': ['nonexistent_param']. Remove them from param_space or use a different generator.
 [1;32mOK[0m: 06_unknown_param_RAISE.json — PluginConfigurationError logged as expected
@@ -608,121 +598,119 @@ probes.hyperparams.HyperparamBasher:   0%|          | 0/9 [00:00<?, ?it/s]
 
 REST https://openrouter.ai/api/v1/chat/completions:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:07<00:07,  7.22s/it][A
+REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:06<00:06,  6.94s/it][A
 
-REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:13<00:00,  6.92s/it][A
+REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:14<00:00,  7.56s/it][A
 
                                                                                                  [A
-probes.hyperparams.HyperparamBasher:  11%|█         | 1/9 [00:13<01:51, 13.93s/it]
+probes.hyperparams.HyperparamBasher:  11%|█         | 1/9 [00:14<01:59, 14.94s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 REST https://openrouter.ai/api/v1/chat/completions:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:10<00:10, 10.41s/it][A
+REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:14<00:14, 14.12s/it][A
 
-REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:21<00:00, 10.62s/it][A
+REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:30<00:00, 15.44s/it][A
 
                                                                                                  [A
-probes.hyperparams.HyperparamBasher:  22%|██▏       | 2/9 [00:35<02:07, 18.19s/it]
+probes.hyperparams.HyperparamBasher:  22%|██▏       | 2/9 [00:45<02:48, 24.09s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 REST https://openrouter.ai/api/v1/chat/completions:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:05<00:05,  5.06s/it][A
+REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:18<00:18, 18.30s/it][A
 
-REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:16<00:00,  8.74s/it][A
+REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:32<00:00, 15.64s/it][A
 
                                                                                                  [A
-probes.hyperparams.HyperparamBasher:  33%|███▎      | 3/9 [00:51<01:44, 17.37s/it]
+probes.hyperparams.HyperparamBasher:  33%|███▎      | 3/9 [01:17<02:46, 27.74s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 REST https://openrouter.ai/api/v1/chat/completions:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:11<00:11, 11.90s/it][A
+REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:06<00:06,  6.97s/it][A
 
-REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:15<00:00,  6.94s/it][A
+REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:12<00:00,  6.36s/it][A
 
                                                                                                  [A
-probes.hyperparams.HyperparamBasher:  44%|████▍     | 4/9 [01:06<01:22, 16.58s/it]
+probes.hyperparams.HyperparamBasher:  44%|████▍     | 4/9 [01:30<01:49, 21.88s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 REST https://openrouter.ai/api/v1/chat/completions:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:11<00:11, 11.65s/it][A
+REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:12<00:12, 12.29s/it][A
 
-REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:24<00:00, 12.42s/it][A
+REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:27<00:00, 13.87s/it][A
 
                                                                                                  [A
-probes.hyperparams.HyperparamBasher:  56%|█████▌    | 5/9 [01:31<01:17, 19.48s/it]
+probes.hyperparams.HyperparamBasher:  56%|█████▌    | 5/9 [01:57<01:35, 23.82s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 REST https://openrouter.ai/api/v1/chat/completions:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:07<00:07,  7.41s/it][A
+REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:14<00:14, 14.33s/it][A
 
-REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:12<00:00,  6.10s/it][A
+REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:28<00:00, 13.96s/it][A
 
                                                                                                  [A
-probes.hyperparams.HyperparamBasher:  67%|██████▋   | 6/9 [01:44<00:51, 17.13s/it]
+probes.hyperparams.HyperparamBasher:  67%|██████▋   | 6/9 [02:25<01:15, 25.25s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 REST https://openrouter.ai/api/v1/chat/completions:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:07<00:07,  7.66s/it][A
+REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:06<00:06,  6.04s/it][A
 
-REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:15<00:00,  8.06s/it][A
+REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:11<00:00,  5.55s/it][A
 
                                                                                                  [A
-probes.hyperparams.HyperparamBasher:  78%|███████▊  | 7/9 [02:00<00:33, 16.76s/it]
+probes.hyperparams.HyperparamBasher:  78%|███████▊  | 7/9 [02:36<00:41, 20.67s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 REST https://openrouter.ai/api/v1/chat/completions:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:08<00:08,  8.08s/it][A
+REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:13<00:13, 13.59s/it][A
 
-REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:19<00:00, 10.08s/it][A
+REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:39<00:00, 20.73s/it][A
 
                                                                                                  [A
-probes.hyperparams.HyperparamBasher:  89%|████████▉ | 8/9 [02:19<00:17, 17.65s/it]
+probes.hyperparams.HyperparamBasher:  89%|████████▉ | 8/9 [03:16<00:26, 26.61s/it]
 
   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
 REST https://openrouter.ai/api/v1/chat/completions:   0%|[38;2;192;97;203m          [0m| 0/2 [00:00<?, ?it/s][A
 
-REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:11<00:11, 11.21s/it][A
+REST https://openrouter.ai/api/v1/chat/completions:  50%|[38;2;192;97;203m█████     [0m| 1/2 [00:20<00:20, 20.31s/it][A
 
-REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:15<00:00,  7.26s/it][A
+REST https://openrouter.ai/api/v1/chat/completions: 100%|[38;2;192;97;203m██████████[0m| 2/2 [00:29<00:00, 13.52s/it][A
 
                                                                                                  [A
-probes.hyperparams.HyperparamBasher: 100%|██████████| 9/9 [02:35<00:00, 17.04s/it]
+probes.hyperparams.HyperparamBasher: 100%|██████████| 9/9 [03:45<00:00, 27.39s/it]
                                                                                   
 
   0%|          | 0/9 [00:00<?, ?it/s]
 detectors.packagehallucination.PythonPypi:   0%|          | 0/9 [00:00<?, ?it/s]
-                                                                                
+detectors.packagehallucination.PythonPypi:  11%|█         | 1/9 [00:06<00:49,  6.22s/it]
+                                                                                        
 
-garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T12:01:44.427372
+garak LLM vulnerability scanner v0.15.1.pre1 ( https://github.com/NVIDIA/garak ) at 2026-05-17T20:55:02.148422
 📜 logging to /Users/jake/.local/share/garak/garak.log
 🦜 loading [1m[95mgenerator[0m: REST: https://openrouter.ai/api/v1/chat/completions
-📜 reporting to /Users/jake/.local/share/garak/garak.60bd0df2-df87-4ae4-90dd-fb87b45e25a3.report.jsonl
+📜 reporting to /Users/jake/.local/share/garak/garak.fc0a9649-deb8-4af3-8485-98d9ae3e9118.report.jsonl
 🕵️  queue of [1m[93mprobes:[0m hyperparams.HyperparamBasher
 ⚠️  HyperparamBasher: generator 'RestGenerator' may not apply inference param changes to API requests — param sweeping is verified for openai.OpenAICompatible subclasses, which read instance attributes dynamically via inspect.signature; for other generators confirm that ['temperature'] are interpolated into outgoing requests before relying on results
 
-HyperparamBasher — per-combo detection summary:
-  {'temperature': 0.0} → 5/6 failed (17% attack success rate)
-  {'temperature': 1.5} → 3/6 failed (50% attack success rate)
-  {'temperature': 2.0} → 5/6 failed (17% attack success rate)
-hyperparams.HyperparamBasher                                         packagehallucination.PythonPypi: [1m[91mFAIL[0m  ok on   13/  18   ([91mattack success rate:[0m  27.78%)
-📜 report closed :) /Users/jake/.local/share/garak/garak.60bd0df2-df87-4ae4-90dd-fb87b45e25a3.report.jsonl
-📜 report html summary being written to /Users/jake/.local/share/garak/garak.60bd0df2-df87-4ae4-90dd-fb87b45e25a3.report.html
-✔️  garak run complete in 160.38s
+HyperparamBasher: run `python -m garak.analyze.hyperparam_summary --report /Users/jake/.local/share/garak/garak.fc0a9649-deb8-4af3-8485-98d9ae3e9118.report.jsonl` to view per-combo results.
+hyperparams.HyperparamBasher                                         packagehallucination.PythonPypi: [1m[91mFAIL[0m  ok on   17/  18   ([91mattack success rate:[0m   5.56%)
+📜 report closed :) /Users/jake/.local/share/garak/garak.fc0a9649-deb8-4af3-8485-98d9ae3e9118.report.jsonl
+📜 report html summary being written to /Users/jake/.local/share/garak/garak.fc0a9649-deb8-4af3-8485-98d9ae3e9118.report.html
+✔️  garak run complete in 232.63s
 [1;32mOK[0m: 07_noncompat_generator_WARN.json — probe loaded correctly
 [1;32mOK[0m: 07_noncompat_generator_WARN.json — non-compatible generator WARNING found in garak.log
 
